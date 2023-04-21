@@ -1,4 +1,4 @@
-# poster_database
+# SQL_poster_database
 
 SUMMARY:
 For my Database, Design, and Development class at Pratt in Fall 2022, I worked in a group of 3 to develop a SQL database. 
